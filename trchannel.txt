@@ -1,1 +1,1 @@
-{"Chick \"Thunder\" Hicks \ud83c\udfc6's server": 1036454967659204709, "Triumph's Generic League": 1036047704402436226, "testing server": 1036871801537560600, "Triumphs Generic League": 1036047704402436226, "NBAL": 1046892661044428912}
+{"Chick \"Thunder\" Hicks \ud83c\udfc6's server": 1036454967659204709, "Triumph's Generic League": 1036047704402436226, "testing server": 1036871801537560600, "Triumphs Generic League": 1036047704402436226, "NBAL": 1046892661044428912, "Chick Hicks server": 1036454967659204709}
